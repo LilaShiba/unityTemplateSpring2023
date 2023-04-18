@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
     <Compile Include="Assets/FirstPersonCharacter/Scripts/MouseLook.cs" />
+    <Compile Include="Assets/capsuleCollider.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
